@@ -5,23 +5,26 @@ import { Link } from "react-router-dom";
 const blogData = [
   {
     id: 1,
-    categories: "Marketing, Creative",
+    categories: "Football",
     image: require("../assets/images/980x780.png"),
-    title: "Top 6 Membership Sites for Beginners",
+    title:
+      "Top Football Pitches in Kenya: Where to Play and Practice Across the Country",
+
     date: "March 19, 2024",
   },
   {
     id: 2,
-    categories: "Tutorials Ui/Ux Design",
+    categories: "Community",
     image: require("../assets/images/980x780.png"),
-    title: "How to become a web designer in 2024",
+    title:
+      "The Rise of Community Football Pitches in Kenya: A Grassroots Movement",
     date: "March 25, 2024",
   },
   {
     id: 3,
-    categories: "Resources Tutorials",
+    categories: "Booking Football pitches",
     image: require("../assets/images/980x780.png"),
-    title: "20 best affiliate programs for online creators in 2024",
+    title: "Booking a Football Pitch in Kenya: What to Know Before You Play",
     date: "April 04, 2024",
   },
 ];
@@ -63,7 +66,7 @@ const Blogs = () => {
                 <div className="mt-5">
                   <div>{blog.categories}</div>
                   <div className="blog-title my-4">
-                    <h4>                      
+                    <h4>
                       <Link to="#">{blog.title}</Link>
                     </h4>
                   </div>
