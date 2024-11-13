@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ultronsys.pitchpro",
+      "sha256_cert_fingerprints": [
+        "68:EC:57:D4:85:A5:C5:6C:2F:28:4E:2D:AA:AC:C8:65:32:BF:44:33:4D:E7:C6:40:E1:6B:51:D0:12:6C:B3:56"
+      ]
+    }
+  }
+]
