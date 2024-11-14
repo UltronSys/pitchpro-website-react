@@ -9,7 +9,7 @@ const testimonialsData = [
     testimonieText:
       "Pitch Pro made booking a football pitch so easy! I can find, book, and pay in minutes. It’s a game-changer!",
     avatar: require("../assets/images/266x286.png"),
-    testimonieName: "Abdulrhaman",
+    testimonieName: "Abdulrahman",
     indentity: "Kiji Turf Manager",
   },
   {
@@ -18,7 +18,7 @@ const testimonialsData = [
     testimonieText:
       "I love how quickly I can book pitches for our team. The app is so simple to use, and payment is seamless. Highly recommend!",
     avatar: require("../assets/images/266x286.png"),
-    testimonieName: "Abdulrhaman",
+    testimonieName: "Abdulrahman",
     indentity: "Kiji Turf Manager",
   },
   {
@@ -27,7 +27,7 @@ const testimonialsData = [
     testimonieText:
       "Pitch Pro has made organizing matches with friends a breeze. No more back-and-forth—just book and play!",
     avatar: require("../assets/images/266x286.png"),
-    testimonieName: "Abdulrhaman",
+    testimonieName: "Abdulrahman",
     indentity: "Kiji Turf Manager",
   },
 ];
